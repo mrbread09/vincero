@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,700);
 
 
 
@@ -34,11 +34,11 @@ body {
   font-size: 1rem;
 }
 .display-5 {
-  font-family: 'Comfortaa', display;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 1.5rem;
 }
 .display-7 {
-  font-family: 'Comfortaa', display;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 1.1rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -1111,7 +1111,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Comfortaa', display;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2247,145 +2247,6 @@ body {
 }
 .cid-qNowJ6KUPy .mbr-title,
 .cid-qNowJ6KUPy .underline I {
-  color: #232323;
-}
-.cid-qMMAC8YeqL {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qMMAC8YeqL p {
-  color: #767676;
-}
-.cid-qMMAC8YeqL .img-wrap {
-  width: 100% !important;
-  height: 100% !important;
-}
-.cid-qMMAC8YeqL .main {
-  flex-direction: row-reverse;
-}
-.cid-qMMAC8YeqL .row-element,
-.cid-qMMAC8YeqL .image-element {
-  padding: 0;
-}
-.cid-qMMAC8YeqL .image-element {
-  display: flex;
-  justify-content: center;
-}
-.cid-qMMAC8YeqL .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-qMMAC8YeqL .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-qMMAC8YeqL .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #a38dfd, #fe525b);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-qMMAC8YeqL .text-content {
-    padding: 5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-qMMAC8YeqL .text-content {
-    padding: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qMMAC8YeqL .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-qMMAC8YeqL .underline .line {
-    height: 2px;
-  }
-  .cid-qMMAC8YeqL .mbr-title,
-  .cid-qMMAC8YeqL .underline,
-  .cid-qMMAC8YeqL .mbr-text,
-  .cid-qMMAC8YeqL .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-qMMAC8YeqL .mbr-text,
-.cid-qMMAC8YeqL .mbr-section-btn {
-  color: #232323;
-}
-.cid-qMMAC8YeqL .mbr-title,
-.cid-qMMAC8YeqL .underline I {
-  color: #232323;
-}
-.cid-qMMBc46roo {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qMMBc46roo p {
-  color: #767676;
-}
-.cid-qMMBc46roo .img-wrap {
-  width: 100% !important;
-  height: 100% !important;
-}
-.cid-qMMBc46roo .row-element,
-.cid-qMMBc46roo .image-element {
-  padding: 0;
-}
-.cid-qMMBc46roo .image-element {
-  display: flex;
-  justify-content: center;
-}
-.cid-qMMBc46roo .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-qMMBc46roo .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-qMMBc46roo .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #a38dfd, #fe525b);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-qMMBc46roo .text-content {
-    padding: 5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-qMMBc46roo .text-content {
-    padding: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qMMBc46roo .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-qMMBc46roo .underline .line {
-    height: 2px;
-  }
-  .cid-qMMBc46roo .mbr-title,
-  .cid-qMMBc46roo .underline,
-  .cid-qMMBc46roo .mbr-text,
-  .cid-qMMBc46roo .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-qMMBc46roo .mbr-text,
-.cid-qMMBc46roo .mbr-section-btn {
-  color: #232323;
-}
-.cid-qMMBc46roo .mbr-title,
-.cid-qMMBc46roo .underline I {
   color: #232323;
 }
 .cid-qN5qGnpTqO {
